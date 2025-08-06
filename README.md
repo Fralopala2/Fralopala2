@@ -5,6 +5,11 @@ https://github.com/user-attachments/assets/4214a025-15b3-46fb-a7af-bdf1e8506a6d
 👨‍💻 **Desarrollador Full Stack** | 💡 Apasionado por la tecnología y la programación | 🏠 Programando desde casa
 
 Bienvenido a mi rincón en GitHub, donde transformo ideas en código y soluciones creativas. 😎 Explora mis proyectos, desde aplicaciones web hasta sistemas innovadores, y descubre cómo me divierto resolviendo problemas con **Java**, **JavaScript**, **Python**, y más.
+<div align="center">
+  
+![Fralopala2's Profile visits](https://komarev.com/ghpvc/?username=Fralopala2&color=blue)
+
+</div>
 
 ---
 
@@ -13,6 +18,15 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 - 🛠️ Amante de crear aplicaciones funcionales y visualmente atractivas
 - 🎶 Creador de un recomendador de música basado en **emojis** 🎵
 - ⚡ Siempre aprendiendo y experimentando con nuevas tecnologías
+
+## 🔰 Github Stats
+
+![Fralopala2's Stats](https://github-readme-stats.vercel.app/api?username=Fralopala2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Fralopala2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fralopala2&theme=tokyonight&hide_border=true)
+<div align="center">
+  
+![Fralopala2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fralopala2&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+</div>
 
 ## 🛠️ Tecnologías y herramientas
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
