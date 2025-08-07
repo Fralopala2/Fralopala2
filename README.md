@@ -1,6 +1,9 @@
 # ¡Hola, soy Paco! 🚀
+<br>
 
-https://github.com/user-attachments/assets/4214a025-15b3-46fb-a7af-bdf1e8506a6d
+<p align="center">
+  <img src="https://github.com/Fralopala2/Fralopala2/blob/main/banner_github.gif?raw=true" alt="banner">
+</p>
 
 👨‍💻 **Desarrollador Full Stack** | 💡 Apasionado por la tecnología y la programación | 🏠 Programando desde casa
 
