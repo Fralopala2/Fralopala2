@@ -34,7 +34,9 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
@@ -48,6 +50,7 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 ![Apache](https://img.shields.io/badge/-Apache-1A1A1A?style=flat-square&logo=apache)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
@@ -57,17 +60,21 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)
 ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
 ![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)
+
+
 
 ## 📚 Proyectos destacados
 - **[chatbot maskotas](https://github.com/Fralopala2/ChatbotMaskotas)**: Chatbot inteligente para la clínica veterinaria "Maskotas" 🐶
