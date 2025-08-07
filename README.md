@@ -23,13 +23,8 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Fralopala2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=Fralopala2&theme=tokyonight&hide_border=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fralopala2&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
-
-<div align="center">
-  
-![Fralopala2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fralopala2&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-</div>
 
 ## 🛠️ Tecnologías y herramientas
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
