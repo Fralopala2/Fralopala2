@@ -72,7 +72,7 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 - **[RECO-FullStack](https://github.com/Fralopala2/RECO-FullStack)**: Gestión de eventos para estudiantes 📅
 - **[semaforo_electrico](https://github.com/Fralopala2/semaforo_electrico)**: Proyecto de simulación de semáforo para el precio de la luz en Python 🚦
 
-## 📬 ¡Conecta conmigo!
+## 📬 ¡Conecta conmigo! <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Fralopala2?color=236ad3&logo=github&label=Seguidores"/>
 - 📧 Email: [pacoaldev@gmail.com](mailto:pacoaldev@gmail.com)
 - 💼 LinkedIn: [Paco Lopez Alarte](https://www.linkedin.com/in/fmlalinked)
 - 🌐 Portfolio: [Mi Portfolio](https://github.com/Fralopala2/mi-portfolio)
