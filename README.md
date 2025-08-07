@@ -4,8 +4,9 @@
 <p align="center">
   <img src="https://github.com/Fralopala2/Fralopala2/blob/main/banner_github.gif?raw=true" alt="banner">
 </p>
-
+<p align="center">
 👨‍💻 **Desarrollador Full Stack** | 💡 Apasionado por la tecnología y la programación | 🏠 Programando desde casa
+</p>
 
 Bienvenido a mi rincón en GitHub, donde transformo ideas en código y soluciones creativas. 😎 Explora mis proyectos, desde aplicaciones web hasta sistemas innovadores, y descubre cómo me divierto resolviendo problemas con **Java**, **JavaScript**, **Python**, y más.
 <div align="center">
