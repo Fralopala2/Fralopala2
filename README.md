@@ -1,28 +1,28 @@
-# ¡Hola, soy Paco! 🚀
+# Hello, I'm Paco! 🚀
 <br>
 
 <p align="center">
   <img src="https://github.com/Fralopala2/Fralopala2/blob/main/banner_github.gif?raw=true" alt="banner">
 </p>
 <p align="center">
-👨‍💻 **Desarrollador Full Stack** | 💡 Apasionado por la tecnología y la programación | 🏠 Programando desde casa
+👨‍💻 **Full Stack Developer** | 💡 Passionate about technology and programming | 🏠 Coding from home style
 </p>
 
-Bienvenido a mi rincón en GitHub, donde transformo ideas en código y soluciones creativas. 😎 Explora mis proyectos, desde aplicaciones web hasta sistemas innovadores, y descubre cómo me divierto resolviendo problemas con **Java**, **JavaScript**, **Python**, y más.
+Welcome to my corner on GitHub, where I transform ideas into code and creative solutions. 😎 Explore my projects, from web applications to innovative systems, and discover how I have fun solving problems with **Java**, **JavaScript**, **Python**, and more.
 <div align="center">
   
 ![Fralopala2's Profile visits](https://komarev.com/ghpvc/?username=Fralopala2&color=blue)
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Fralopala2?color=236ad3&logo=github&label=Seguidores"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Fralopala2?color=236ad3&logo=github&label=Followers"/>
 
 </div>
 
 ---
 
-## 🌟 Sobre mí
-- 🎓 Estudiante de **DAW** (Desarrollo de Aplicaciones Web) en estos momentos
-- 🛠️ Amante de crear aplicaciones funcionales y visualmente atractivas
-- 🎶 Creador de un recomendador de música basado en **emojis** 🎵
-- ⚡ Siempre aprendiendo y experimentando con nuevas tecnologías
+## 🌟 About me
+- 🎓 Currently studying Web Application Development
+- 🛠️ Love creating functional and visually appealing applications
+- 🎶 Creator of a music recommender based on **emojis** 🎵
+- ⚡ Always learning and experimenting with new technologies
 
 ## 🔰 Github Stats
 
@@ -31,7 +31,7 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fralopala2&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies and tools
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -76,18 +76,18 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 
 
 
-## 📚 Proyectos destacados
-- **[chatbot maskotas](https://github.com/Fralopala2/ChatbotMaskotas)**: Chatbot inteligente para la clínica veterinaria "Maskotas" 🐶
-- **[mi-portfolio](https://github.com/Fralopala2/mi-portfolio)**: Mi portfolio personal, ¡echa un vistazo a mi estilo! 🌐
-- **[recomendador-musica](https://github.com/Fralopala2/recomendador-musica)**: Recomendaciones musicales basadas en emojis 😄🎧
-- **[RECO-FullStack](https://github.com/Fralopala2/RECO-FullStack)**: Gestión de eventos para estudiantes 📅
-- **[semaforo_electrico](https://github.com/Fralopala2/semaforo_electrico)**: Proyecto de simulación de semáforo para el precio de la luz en Python 🚦
+## 📚 Featured projects
+- **[chatbot maskotas](https://github.com/Fralopala2/ChatbotMaskotas)**: Intelligent chatbot for the "Maskotas" veterinary clinic 🐶
+- **[mi-portfolio](https://github.com/Fralopala2/mi-portfolio)**: My personal portfolio, check out my style! 🌐
+- **[recomendador-musica](https://github.com/Fralopala2/recomendador-musica)**: Music recommendations based on emojis 😄🎧
+- **[RECO-FullStack](https://github.com/Fralopala2/RECO-FullStack)**: Event management for students 📅
+- **[semaforo_electrico](https://github.com/Fralopala2/semaforo_electrico)**: Traffic light simulation project for electricity pricing in Python 🚦
 
-## 🏆 Trofeos Github
+## 🏆 Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fralopala2&theme=dracula&rank=-?)](https://github.com/Fralopala2/github-profile-trophy)
 
-## 📬 ¡Conecta conmigo!
+## 📬 Connect with me!
 
 <div align="center" dir="auto">
   <p dir="auto">
@@ -110,7 +110,7 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 </div>  
 
 <p align="center">
-⭐ **¡No olvides dejar una estrella en mis proyectos si te gustan!** y gracias por visitar mi perfil 😄
+⭐ **Don't forget to star my projects if you like them!** and thanks for visiting my profile 😄
 </p>
 
 <p align="center">
