@@ -82,12 +82,16 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 - **[RECO-FullStack](https://github.com/Fralopala2/RECO-FullStack)**: Gestión de eventos para estudiantes 📅
 - **[semaforo_electrico](https://github.com/Fralopala2/semaforo_electrico)**: Proyecto de simulación de semáforo para el precio de la luz en Python 🚦
 
+## 🏆 Trofeos Github
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fralopala2&theme=dracula&rank=-?)](https://github.com/Fralopala2/github-profile-trophy)
+
 ## 📬 ¡Conecta conmigo! <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Fralopala2?color=236ad3&logo=github&label=Seguidores"/>
 - 📧 Email: [pacoaldev@gmail.com](mailto:pacoaldev@gmail.com)
 - 💼 LinkedIn: [Paco Lopez Alarte](https://www.linkedin.com/in/fmlalinked)
 - 🌐 Portfolio: [Mi Portfolio](https://github.com/Fralopala2/mi-portfolio)
 
-⭐ **¡No olvides dejar una estrella en mis proyectos si te gustan!**  Gracias por visitar mi perfil, ¡espero que encuentres algo inspirador! 😄
+⭐ **¡No olvides dejar una estrella en mis proyectos si te gustan!**  y gracias por visitar mi perfil, ¡espero que encuentres algo inspirador! 😄
  
 <p align="center">
 <img src="https://fralopala2.github.io/mi-portfolio/images/willy%20wonka%20logo.png" alt="logo">
