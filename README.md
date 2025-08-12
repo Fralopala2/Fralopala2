@@ -103,6 +103,9 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
     <a href="https://discord.com/users/Melburnia#6832" rel="nofollow">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">
     </a>
+    <a href="https://www.instagram.com/pac0l0pez/" rel="nofollow">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+    </a>
   </p>
 </div>  
 
