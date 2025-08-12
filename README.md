@@ -12,6 +12,7 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 <div align="center">
   
 ![Fralopala2's Profile visits](https://komarev.com/ghpvc/?username=Fralopala2&color=blue)
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Fralopala2?color=236ad3&logo=github&label=Seguidores"/>
 
 </div>
 
@@ -86,13 +87,26 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fralopala2&theme=dracula&rank=-?)](https://github.com/Fralopala2/github-profile-trophy)
 
-## 📬 ¡Conecta conmigo! <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Fralopala2?color=236ad3&logo=github&label=Seguidores"/>
-- 📧 Email: [pacoaldev@gmail.com](mailto:pacoaldev@gmail.com)
-- 💼 LinkedIn: [Paco Lopez Alarte](https://www.linkedin.com/in/fmlalinked)
-- 🌐 Portfolio: [Mi Portfolio](https://github.com/Fralopala2/mi-portfolio)
+## 📬 ¡Conecta conmigo!
 
+<div align="center" dir="auto">
+  <p dir="auto">
+    <a href="https://www.linkedin.com/in/fmlalinked/" rel="nofollow">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+    </a>
+    <a href="mailto:pacoaldev@gmail.com" rel="nofollow">
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+    </a>
+    <a href="https://github.com/Fralopala2/mi-portfolio" rel="nofollow">
+      <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">
+    </a>
+  </p>
+</div>  
+
+<p align="center">
 ⭐ **¡No olvides dejar una estrella en mis proyectos si te gustan!** y gracias por visitar mi perfil 😄
- 
+</p>
+
 <p align="center">
 <img src="https://fralopala2.github.io/mi-portfolio/images/willy%20wonka%20logo.png" alt="logo">
 </p>
