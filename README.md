@@ -100,6 +100,9 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
     <a href="https://github.com/Fralopala2/mi-portfolio" rel="nofollow">
       <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">
     </a>
+    <a href="https://discord.com/users/Melburnia#6832" rel="nofollow">
+      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">
+    </a>
   </p>
 </div>  
 
