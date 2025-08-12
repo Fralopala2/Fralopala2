@@ -91,7 +91,7 @@ Bienvenido a mi rincón en GitHub, donde transformo ideas en código y solucione
 - 💼 LinkedIn: [Paco Lopez Alarte](https://www.linkedin.com/in/fmlalinked)
 - 🌐 Portfolio: [Mi Portfolio](https://github.com/Fralopala2/mi-portfolio)
 
-⭐ **¡No olvides dejar una estrella en mis proyectos si te gustan!** y gracias por visitar mi perfil, ¡espero que encuentres algo inspirador! 😄
+⭐**¡No olvides dejar una estrella en mis proyectos si te gustan!** y gracias por visitar mi perfil, ¡espero que encuentres algo inspirador!😄
  
 <p align="center">
 <img src="https://fralopala2.github.io/mi-portfolio/images/willy%20wonka%20logo.png" alt="logo">
