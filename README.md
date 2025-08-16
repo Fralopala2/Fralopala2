@@ -114,5 +114,5 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
 </p>
 
 <p align="center">
-<img src="https://fralopala2.github.io/mi-portfolio/images/willy%20wonka%20logo.png" alt="logo">
+<img src="https://github.com/user-attachments/assets/a8851d3c-6fc1-4a68-a0e4-256b0bc7adc9" alt="logo">
 </p>
