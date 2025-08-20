@@ -83,6 +83,7 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
 
 
 ## 📚 Featured projects
+- **[sos reports](https://github.com/Fralopala2/fire_notification_app)**: This application allows users to report wildfires in real-time, and find nearby emergency services.🔥
 - **[chatbot maskotas](https://github.com/Fralopala2/ChatbotMaskotas)**: Intelligent chatbot for the "Maskotas" veterinary clinic 🐶
 - **[mi-portfolio](https://github.com/Fralopala2/mi-portfolio)**: My personal portfolio, check out my style! 🌐
 - **[recomendador-musica](https://github.com/Fralopala2/recomendador-musica)**: Music recommendations based on emojis 😄🎧
