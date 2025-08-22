@@ -1,12 +1,13 @@
-# Hello, I'm Paco! 🚀
+# Hello, I'm Paco López! 🚀
 <br>
 
 <p align="center">
   <img src="https://github.com/Fralopala2/Fralopala2/blob/main/banner_github.gif?raw=true" alt="banner">
 </p>
-<p align="center">
-👨‍💻 **Full Stack Developer** | 💡 Passionate about technology and programming | 🏠 Coding from home style
-</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Wannabe;Technology+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+</div>
 
 Welcome to my corner on GitHub, where I transform ideas into code and creative solutions. 😎 Explore my projects, from web applications to innovative systems, and discover how I have fun solving problems with **Java**, **JavaScript**, **Python**, and more.
 <div align="center">
@@ -26,11 +27,11 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
 
 ## 🔰 Github Stats
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Fralopala2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fralopala2&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fralopala2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fralopala2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fralopala2&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
+</div>
 
 ## 🛠️ Technologies and tools
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
@@ -83,16 +84,32 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
 
 
 ## 📚 Featured projects
-- **[sos reports](https://github.com/Fralopala2/fire_notification_app)**: This application allows users to report wildfires in real-time, and find nearby emergency services.🔥
-- **[chatbot maskotas](https://github.com/Fralopala2/ChatbotMaskotas)**: Intelligent chatbot for the "Maskotas" veterinary clinic 🐶
-- **[mi-portfolio](https://github.com/Fralopala2/mi-portfolio)**: My personal portfolio, check out my style! 🌐
-- **[recomendador-musica](https://github.com/Fralopala2/recomendador-musica)**: Music recommendations based on emojis 😄🎧
-- **[RECO-FullStack](https://github.com/Fralopala2/RECO-FullStack)**: Event management for students 📅
-- **[semaforo_electrico](https://github.com/Fralopala2/semaforo_electrico)**: Traffic light simulation project for electricity pricing in Python 🚦
+| Project | Description | Technologies |
+|---------|-------------|-------------|
+| 🔥 **SOS Reports** | This Android app allows users to report, and find nearby emergency services | Flutter, Dart | 
+| 🐶 **ChatBot Maskotas** | Intelligent chatbot for veterinary clinic | Java, AI, Spring Boot |
+| 🎵 **Music Recommender** | Music recommendations based on emojis | Python, Machine Learning |
+| 💼 **My Portfolio** | Interactive personal portfolio | HTML, CSS, JavaScript |
+| 📅 **RECO FullStack** | Event management for students | Full Stack Development |
+| 🚦 **Electric Traffic Light** | Electricity price simulation | Python, Data Analysis |
 
 ## 🏆 Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fralopala2&theme=dracula&rank=-?)](https://github.com/Fralopala2/github-profile-trophy)
+
+## 🌱 Currently Learning
+
+- 🔥 **Modern Frameworks**: Diving deep into React and Vue.js
+- 🚀 **DevOps**: Docker, CI/CD and agile methodologies
+- 📱 **Mobile Development**: Exploring React Native
+- 🤖 **Artificial Intelligence**: Machine Learning and natural language processing
+
+## 🎯 2026 Goals
+- [X] 🌟 Contribute to open source projects
+- [X] 📚 Get certifications in cloud technologies
+- [X] 🎨 Develop my own mobile application
+- [ ] 🚀 Complete my Web Development studies with excellence
+- [ ] 💼 Land my first job as a Full Stack Developer
 
 ## 📬 Connect with me!
 
@@ -116,9 +133,11 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
   </p>
 </div>  
 
-<p align="center">
-⭐ **Don't forget to star my projects if you like them!** and thanks for visiting my profile 😄
-</p>
+<div align="center">
+  ⭐ **Don't forget to star my projects if you like them!** and thanks for visiting my profile 😄
+  
+  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+</div>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a8851d3c-6fc1-4a68-a0e4-256b0bc7adc9" alt="logo">
