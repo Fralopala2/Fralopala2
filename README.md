@@ -86,6 +86,7 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
 ## 📚 Featured projects
 | Project | Description | Technologies |
 |---------|-------------|-------------|
+| 📑 **ApplyDash** | Application to track your job applications with style and precision | Typescript, Javascript |
 | 🔥 **SOS Reports** | This Android app allows users to report, and find nearby emergency services | Flutter, Dart | 
 | 🐶 **ChatBot Maskotas** | Intelligent chatbot for veterinary clinic | Java, AI, Spring Boot |
 | 🎵 **Music Recommender** | Music recommendations based on emojis | Python, Machine Learning |
