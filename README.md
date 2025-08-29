@@ -96,7 +96,7 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
 
 ## 🏆 Github Trophies
 
-[![trophy](https://github-trophies.vercel.app/?username=Fralopala2&theme=dracula)](https://github.com/Fralopala2/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=Fralopala2&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Fralopala2/github-trophies)
 
 ## 🌱 Currently Learning
 
