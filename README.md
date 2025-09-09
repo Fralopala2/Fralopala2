@@ -22,6 +22,7 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
 ## 🌟 About me
 - 🎓 Currently studying Web Application Development
 - 🛠️ Love creating functional and visually appealing applications
+- 📑 ApplyDash app for tracking job applications
 - 🎶 Creator of a music recommender based on **emojis** 🎵
 - ⚡ Always learning and experimenting with new technologies
 
