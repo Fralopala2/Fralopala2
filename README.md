@@ -115,8 +115,6 @@ Distributed systems · Data platforms · APIs
 </div>  
 
 <div align="center">
-  ⭐ **Don't forget to star my projects if you like them!** and thanks for visiting my profile 😄
-  
   *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 </div>
 
