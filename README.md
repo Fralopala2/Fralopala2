@@ -6,10 +6,10 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Wannabe;Technology+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot;Building+distributed+systems+;Real-time+data+platforms" alt="Typing SVG" />
 </div>
 
-Welcome to my corner on GitHub, where I transform ideas into code and creative solutions. 😎 Explore my projects, from web applications to innovative systems, and discover how I have fun solving problems with **Java**, **JavaScript**, **Python**, and more.
+Welcome to my corner on GitHub, where I transform ideas into code and creative solutions. 😎 Explore my projects, from web applications to innovative systems, and discover how I have fun solving problems with **Java**, **Docker**, **REST APIs**, and more.
 <div align="center">
   
 ![Fralopala2's Profile visits](https://komarev.com/ghpvc/?username=Fralopala2&color=blue)
@@ -20,11 +20,18 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
 ---
 
 ## 🌟 About me
-- 🎓 Currently studying Web Application Development
-- 🛠️ Love creating functional and visually appealing applications
-- 📑 ApplyDash app for tracking job applications
-- 🎶 Creator of a music recommender based on **emojis** 🎵
-- ⚡ Always learning and experimenting with new technologies
+
+I design and build backend systems focused on data processing, real-time communication and scalable architectures.
+
+My work combines API development, distributed systems and infrastructure to deliver end-to-end solutions that handle real-world complexity.
+
+## 🔨 What I Build
+
+- Real-time data pipelines
+- API-driven backend systems
+- Distributed architectures
+- Event-driven applications
+- Full-stack systems with strong backend focus
 
 ## 🔰 Github Stats
 
@@ -34,87 +41,72 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fralopala2&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
 </div>
 
+## 🔝 Core Stack
+
+Java · Spring Boot · Node.js
+MySQL · PostgreSQL · MongoDB · InfluxDB
+Docker · Linux
+MQTT · WebSockets · REST APIs
+
 ## 🛠️ Technologies and tools
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
-![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
-![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-1A1A1A?style=flat-square&logo=apache)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
-![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 ![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
 
 
 ## 📚 Featured projects
 | Project | Description | Technologies |
 |---------|-------------|-------------|
-| 🚗 **Citabot** | Get your available appointments of ITV easy and quickly | Flutter, Python, FastApi |
-| 📑 **ApplyDash** | Application to track your job applications with style and precision | Typescript, Javascript |
-| 🔥 **SOS Reports** | This Android app allows users to report, and find nearby emergency services | Flutter, Dart | 
-| 🐶 **ChatBot Maskotas** | Intelligent chatbot for veterinary clinic | Java, AI, Spring Boot |
-| 🎵 **Music Recommender** | Music recommendations based on emojis | Python, Machine Learning |
-| 💼 **My Portfolio** | Interactive personal portfolio | HTML, CSS, JavaScript |
-| 📅 **RECO FullStack** | Event management for students | Full Stack Development |
+| 🚗 **Medusse IoT Platform** | Distributed system for real-time environmental monitoring - Low-latency processing (~200–500 ms)| Microservices architecture, MQTT, REST API, Docker, Multi-database design |
+| 📑 **Project Management Backend (Spring Boot)** | Backend system for managing industrial projects | Java, HTML, CSS, JavaScript |
+| 🔥 **Real Estate Data Platform** | Data ingestion and analytics system | Web scraping, Python (Pandas), Streamlit, Multi-Source | 
 | 🚦 **Electric Traffic Light** | Electricity price simulation | Python, Data Analysis |
 
 ## 🏆 Github Trophies
 
 [![trophy](https://github-trophies.vercel.app/?username=Fralopala2&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Fralopala2/github-trophies)
 
-## 🌱 Currently Learning
+## 🌱 Engineering Focus
 
-- 🔥 **Modern Frameworks**: Diving deep into React and Vue.js
-- 🚀 **DevOps**: Docker, CI/CD and agile methodologies
-- 📱 **Mobile Development**: Exploring React Native
-- 🤖 **Artificial Intelligence**: Machine Learning and natural language processing
+- Clean backend architecture  
+- Scalable and maintainable systems  
+- Data flow design and processing  
+- Real-time communication patterns  
+- System thinking beyond code 
 
-## 🎯 2026 Goals
-- [X] 🌟 Contribute to open source projects
-- [X] 📚 Get certifications in cloud technologies
-- [X] 🎨 Develop my own mobile application
-- [ ] 🚀 Complete my Web Development studies with excellence
-- [ ] 💼 Land my first job as a Full Stack Developer
+## ➕ Currently Improving
+
+- Advanced Spring Boot (security, performance)  
+- System design and scalability  
+- Docker and container orchestration  
+- API design best practices  
 
 ## 📬 Connect with me!
+
+<p> Open to: 
+Backend Developer roles (Java / Spring Boot)
+Distributed systems · Data platforms · APIs </p>
 
 <div align="center" dir="auto">
   <p dir="auto">
@@ -144,5 +136,6 @@ Welcome to my corner on GitHub, where I transform ideas into code and creative s
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a8851d3c-6fc1-4a68-a0e4-256b0bc7adc9" alt="logo">
+
 <img src="https://github.com/user-attachments/assets/b7e2cdde-3649-4950-a4ad-fa144e573ab0" alt="badge"> 
 </p>
