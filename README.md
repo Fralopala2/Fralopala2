@@ -1,6 +1,3 @@
-# Hello, I'm Paco López! 🚀
-<br>
-
 <p align="center">
   <img src="https://github.com/Fralopala2/Fralopala2/blob/main/banner_github.gif?raw=true" alt="banner">
 </p>
@@ -9,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot;Building+distributed+systems+;Real-time+data+platforms" alt="Typing SVG" />
 </div>
 
-Welcome to my corner on GitHub, where I transform ideas into code and creative solutions. 😎 Explore my projects, from web applications to innovative systems, and discover how I have fun solving problems with **Java**, **Docker**, **REST APIs**, and more.
 <div align="center">
   
 ![Fralopala2's Profile visits](https://komarev.com/ghpvc/?username=Fralopala2&color=blue)
@@ -43,37 +39,26 @@ My work combines API development, distributed systems and infrastructure to deli
 
 ## 🔝 Core Stack
 
+**Backend**
 Java · Spring Boot · Node.js
+
+**Data**
 MySQL · PostgreSQL · MongoDB · InfluxDB
+
+**Infrastructure**
 Docker · Linux
-MQTT · WebSockets · REST APIs
+
+**Communication**
+REST APIs · WebSockets · MQTT
 
 ## 🛠️ Technologies and tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-1A1A1A?style=flat-square&logo=apache)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
-![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
-
 
 ## 📚 Featured projects
 | Project | Description | Technologies |
@@ -102,14 +87,12 @@ MQTT · WebSockets · REST APIs
 - Docker and container orchestration  
 - API design best practices  
 
-## 📬 Connect with me!
+## 📬 Open To
 
-<div align="center" dir="auto">
-  <p dir="auto"> 
-  Open to: 
-  Backend Developer roles (Java / Spring Boot)
-  Distributed systems · Data platforms · APIs </p>
-</div>
+Backend Developer roles (Java / Spring Boot)
+Distributed systems · Data platforms · APIs
+
+## 📣 Connect with me!
 
 <div align="center" dir="auto">
   <p dir="auto">
