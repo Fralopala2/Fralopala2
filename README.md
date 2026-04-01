@@ -104,9 +104,12 @@ MQTT · WebSockets · REST APIs
 
 ## 📬 Connect with me!
 
-<p> Open to: 
-Backend Developer roles (Java / Spring Boot)
-Distributed systems · Data platforms · APIs </p>
+<div align="center" dir="auto">
+  <p dir="auto"> 
+  Open to: 
+  Backend Developer roles (Java / Spring Boot)
+  Distributed systems · Data platforms · APIs </p>
+</div>
 
 <div align="center" dir="auto">
   <p dir="auto">
