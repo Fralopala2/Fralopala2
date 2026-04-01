@@ -135,7 +135,7 @@ Distributed systems · Data platforms · APIs </p>
 </div>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a8851d3c-6fc1-4a68-a0e4-256b0bc7adc9" alt="logo">
+<img width="180" height="180" alt="logo personal" src="https://github.com/user-attachments/assets/76bf9bb6-15eb-4ea6-bbaf-83fbe1728754" />
 
 <img src="https://github.com/user-attachments/assets/b7e2cdde-3649-4950-a4ad-fa144e573ab0" alt="badge"> 
 </p>
