@@ -36,8 +36,8 @@ My work combines API development, distributed systems and infrastructure to deli
 ## 🔰 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fralopala2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fralopala2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Fralopala2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fralopala2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fralopala2&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
 </div>
 
@@ -116,7 +116,7 @@ Distributed systems · Data platforms · APIs </p>
     <a href="mailto:pacoaldev@gmail.com" rel="nofollow">
       <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
     </a>
-    <a href="https://github.com/Fralopala2/mi-portfolio" rel="nofollow">
+    <a href="https://www.pacoal.dev/" rel="nofollow">
       <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">
     </a>
     <a href="https://discord.com/users/Melburnia#6832" rel="nofollow">
@@ -139,3 +139,4 @@ Distributed systems · Data platforms · APIs </p>
 
 <img src="https://github.com/user-attachments/assets/b7e2cdde-3649-4950-a4ad-fa144e573ab0" alt="badge"> 
 </p>
+
