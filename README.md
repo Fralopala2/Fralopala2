@@ -1,5 +1,10 @@
+<!--
 <p align="center">
   <img src="https://github.com/Fralopala2/Fralopala2/blob/main/banner_github.gif?raw=true" alt="banner">
+</p> https://github.com/user-attachments/assets/a378bcc5-0bef-43e4-939f-35c4bae639e8
+-->
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/a378bcc5-0bef-43e4-939f-35c4bae639e8" controls autoplay loop muted width="640"></video>
 </p>
 
 <div align="center">
