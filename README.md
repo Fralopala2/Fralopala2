@@ -17,7 +17,7 @@
 <div align="center">
   
   ![Fralopala2's Profile visits](https://komarev.com/ghpvc/?username=Fralopala2&color=2563eb&style=flat-square)
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Fralopala2?color=2563eb&logo=github&style=flat-square&label=Followers"/>
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Fralopala2?color=2563eb&logo=github&style=flat-square&label=Followers&v=1"/>
 
 </div>
 
