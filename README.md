@@ -36,6 +36,7 @@ Combining core backend engineering with modern infrastructure and AI integration
 - 🚗 **Real-Time Data Pipelines** — High-throughput ingestion and low-latency processing systems.
 - ⚡ **Event-Driven Architectures** — Distributed systems communicating seamlessly via MQTT and WebSockets.
 - 🧠 **AI-Powered Solutions** — Integrating large language models into scalable application workflows.
+- 🦉 **AI Agents & Developer Tools** — Extending IDE capabilities via MCP and custom agentic workflows.
 - 📑 **Enterprise APIs & Backends** — Clean, secure, and maintainable RESTful services.
 - 🐳 **Infrastructure & Containers** — Automated packaging, orchestration, and seamless deployments.
 
@@ -91,6 +92,7 @@ Combining core backend engineering with modern infrastructure and AI integration
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
+| 🦉 **[Opencode MCP](https://github.com/Fralopala2/opencode-mcp)** | VSCode/Antigravity extension integrating a chat panel with your local Opencode server for agents, skills, tools, and MCP. | TypeScript, VSCode Extension API, MCP |
 | 🧠 **[Epsylon IA](https://github.com/Fralopala2/Epsylon-show)** | AI-driven ecosystem designed for career growth, CV optimization, and automated interview simulations. | Next.js, TypeScript, OpenAI API, Tailwind CSS |
 | 🚗 **[Medusse IoT Platform](https://github.com/Fralopala2/medusse-show)** | Enterprise IoT platform for environmental monitoring with real-time low-latency data processing (~200-500ms). | Java, Spring Boot, TypeScript, Next.js, MQTT, InfluxDB |
 | 📑 **[Project Management Backend](https://github.com/Fralopala2/Project-Management-Platform)** | Industrial innovational project manager application supporting complex backend flows and lifecycle tracking. | Java, Spring Boot, MySQL, Thymeleaf, HTML/CSS/JS |
@@ -121,6 +123,7 @@ Combining core backend engineering with modern infrastructure and AI integration
 
 ## ➕ Active Learning & Focus Areas
 
+- Agentic AI development, MCP (Model Context Protocol), and advanced developer tooling.
 - Advanced **Spring Boot** (performance optimization, custom security filters).
 - Distributed systems and container orchestration (Kubernetes & advanced Docker architectures).
 - Cloud Native application development (AWS ECS/EKS serverless deployment strategies).
