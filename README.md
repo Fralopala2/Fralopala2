@@ -97,7 +97,7 @@ Combining core backend engineering with modern infrastructure and AI integration
 | 🚗 **[Medusse IoT Platform](https://github.com/Fralopala2/medusse-show)** | Enterprise IoT platform for environmental monitoring with real-time low-latency data processing (~200-500ms). | Java, Spring Boot, TypeScript, Next.js, MQTT, InfluxDB |
 | 📑 **[Project Management Backend](https://github.com/Fralopala2/Project-Management-Platform)** | Industrial innovational project manager application supporting complex backend flows and lifecycle tracking. | Java, Spring Boot, MySQL, Thymeleaf, HTML/CSS/JS |
 | 🤖 **[Citabot](https://github.com/Fralopala2/Citabot)** | Flutter Android app automating the search and reservation of available public service appointments. | Flutter, Dart, Python, Web Scraping, Automation |
-| 🔥 **[Real Estate Data Platform](https://github.com/Fralopala2/Fralopala2)** | Data scraping and ingestion engine providing in-depth real estate market analytics. | Python, Pandas, BeautifulSoup, Streamlit |
+| 🔥 **[Real Estate Data Platform](https://github.com/Fralopala2/APIpnot)** | Data scraping and ingestion engine providing in-depth real estate market analytics. | Python, Pandas, BeautifulSoup, Streamlit |
 | 🚦 **[Electric Traffic Light](https://github.com/Fralopala2/semaforo_electrico)** | Intelligent simulation and real-time visualization of daily electricity price fluctuations. | Python, Data Analysis, Scraping |
 
 ---
