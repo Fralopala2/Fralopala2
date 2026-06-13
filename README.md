@@ -16,8 +16,8 @@
 
 <div align="center">
   
-  ![Fralopala2's Profile visits](https://komarev.com/ghpvc/?username=Fralopala2&color=2563eb&style=flat-square)
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Fralopala2?color=2563eb&logo=github&style=flat-square&label=Followers&v=1"/>
+  ![Pacoaldev's Profile visits](https://komarev.com/ghpvc/?username=Pacoaldev&color=2563eb&style=flat-square)
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pacoaldev?color=2563eb&logo=github&style=flat-square&label=Followers&v=1"/>
 
 </div>
 
@@ -106,7 +106,7 @@ Combining core backend engineering with modern infrastructure and AI integration
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=Fralopala2&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Fralopala2/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=Pacoaldev&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Pacoaldev/github-trophies)
 
 </div>
 
