@@ -92,7 +92,7 @@ Combining core backend engineering with modern infrastructure and AI integration
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| 🦉 **[Opencode MCP](https://github.com/Fralopala2/opencode-mcp)** | VSCode/Antigravity extension integrating a chat panel with your local Opencode server for agents, skills, tools, and MCP. | TypeScript, VSCode Extension API, MCP |
+| 🦉 **[Opencode Chat Panel](https://github.com/Fralopala2/opencode-mcp)** | VSCode/Antigravity extension integrating a chat panel with your local Opencode server for agents, skills, tools, and MCP. | TypeScript, VSCode Extension API, MCP |
 | 🧠 **[Epsylon IA](https://github.com/Fralopala2/Epsylon-show)** | AI-driven ecosystem designed for career growth, CV optimization, and automated interview simulations. | Next.js, TypeScript, OpenAI API, Tailwind CSS |
 | 🚗 **[Medusse IoT Platform](https://github.com/Fralopala2/medusse-show)** | Enterprise IoT platform for environmental monitoring with real-time low-latency data processing (~200-500ms). | Java, Spring Boot, TypeScript, Next.js, MQTT, InfluxDB |
 | 📑 **[Project Management Backend](https://github.com/Fralopala2/Project-Management-Platform)** | Industrial innovational project manager application supporting complex backend flows and lifecycle tracking. | Java, Spring Boot, MySQL, Thymeleaf, HTML/CSS/JS |
